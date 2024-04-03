@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "znP68rpylQjeNUDrC6sCwf//LWppfWmkesusNdeNdJSsircRnY8sx3LHvhl9hInMdJih5v1XQmdmNoneKixkFQ==",
+  "dgSpecHash": "HtnnMjS6T9W7pKC7NbB03a3hF2q6aEnflYZMAGuUIZ5qGRW08/VAgaAUZKVtdIGvXcONEIghdRejSMXlPiRmBg==",
   "success": true,
-  "projectFilePath": "D:\\Computer Programming Course\\Semester 3\\Programming Paradigm\\Day 9\\Mahib_Lab1_Part1\\Mahib_Lab1_Part1.fsproj",
+  "projectFilePath": "D:\\Computer Programming Course\\Semester 3\\Programming Paradigm\\Day 9\\MahibLab 2\\Mahib_Lab1_Part1\\Mahib_Lab1_Part1.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\magar\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
   ],

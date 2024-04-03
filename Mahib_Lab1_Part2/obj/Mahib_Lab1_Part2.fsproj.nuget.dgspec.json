@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Computer Programming Course\\Semester 3\\Programming Paradigm\\Day 9\\Mahib_Lab1_Part2\\Mahib_Lab1_Part2.fsproj": {}
+    "D:\\Computer Programming Course\\Semester 3\\Programming Paradigm\\Day 9\\MahibLab 2\\Mahib_Lab1_Part2\\Mahib_Lab1_Part2.fsproj": {}
   },
   "projects": {
-    "D:\\Computer Programming Course\\Semester 3\\Programming Paradigm\\Day 9\\Mahib_Lab1_Part2\\Mahib_Lab1_Part2.fsproj": {
+    "D:\\Computer Programming Course\\Semester 3\\Programming Paradigm\\Day 9\\MahibLab 2\\Mahib_Lab1_Part2\\Mahib_Lab1_Part2.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Computer Programming Course\\Semester 3\\Programming Paradigm\\Day 9\\Mahib_Lab1_Part2\\Mahib_Lab1_Part2.fsproj",
+        "projectUniqueName": "D:\\Computer Programming Course\\Semester 3\\Programming Paradigm\\Day 9\\MahibLab 2\\Mahib_Lab1_Part2\\Mahib_Lab1_Part2.fsproj",
         "projectName": "Mahib_Lab1_Part2",
-        "projectPath": "D:\\Computer Programming Course\\Semester 3\\Programming Paradigm\\Day 9\\Mahib_Lab1_Part2\\Mahib_Lab1_Part2.fsproj",
+        "projectPath": "D:\\Computer Programming Course\\Semester 3\\Programming Paradigm\\Day 9\\MahibLab 2\\Mahib_Lab1_Part2\\Mahib_Lab1_Part2.fsproj",
         "packagesPath": "C:\\Users\\magar\\.nuget\\packages\\",
-        "outputPath": "D:\\Computer Programming Course\\Semester 3\\Programming Paradigm\\Day 9\\Mahib_Lab1_Part2\\obj\\",
+        "outputPath": "D:\\Computer Programming Course\\Semester 3\\Programming Paradigm\\Day 9\\MahibLab 2\\Mahib_Lab1_Part2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\magar\\AppData\\Roaming\\NuGet\\NuGet.Config"

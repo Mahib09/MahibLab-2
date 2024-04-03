@@ -27,3 +27,33 @@ D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\Mahib_Lab1_
 D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\Mahib_Lab1_Part1\obj\Debug\net8.0\Mahib_Lab1_Part1.pdb
 D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\Mahib_Lab1_Part1\obj\Debug\net8.0\Mahib_Lab1_Part1.genruntimeconfig.cache
 D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\Mahib_Lab1_Part1\obj\Debug\net8.0\ref\Mahib_Lab1_Part1.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\Mahib_Lab1_Part1.exe
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\Mahib_Lab1_Part1.deps.json
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\Mahib_Lab1_Part1.runtimeconfig.json
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\Mahib_Lab1_Part1.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\Mahib_Lab1_Part1.pdb
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\FSharp.Core.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\obj\Debug\net8.0\Mahib_Lab1_Part1.fsproj.AssemblyReference.cache
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\obj\Debug\net8.0\Mahib_Lab1_Part1.AssemblyInfoInputs.cache
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\obj\Debug\net8.0\Mahib_Lab1_Part1.AssemblyInfo.fs
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\obj\Debug\net8.0\Mahib_Lab1_Part1.fsproj.CoreCompileInputs.cache
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\obj\Debug\net8.0\Mahib_Lab1_Part1.sourcelink.json
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\obj\Debug\net8.0\Mahib_La.CA9AB37B.Up2Date
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\obj\Debug\net8.0\Mahib_Lab1_Part1.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\obj\Debug\net8.0\refint\Mahib_Lab1_Part1.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\obj\Debug\net8.0\Mahib_Lab1_Part1.pdb
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\obj\Debug\net8.0\Mahib_Lab1_Part1.genruntimeconfig.cache
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 9\MahibLab 2\Mahib_Lab1_Part1\obj\Debug\net8.0\ref\Mahib_Lab1_Part1.dll
